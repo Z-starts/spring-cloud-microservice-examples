@@ -29,12 +29,14 @@
     <dependency>
         <groupId>io.zipkin</groupId>
         <artifactId>zipkin-ui</artifactId>
+        <version>RELEASE</version>
         <scope>runtime</scope>
     </dependency>
 
     <dependency>
         <groupId>io.zipkin.java</groupId>
         <artifactId>zipkin-server</artifactId>
+        <version>RELEASE</version>
     </dependency>
 
 </dependencies>
